@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ads
 - 👀 I’m interested in web development and mobile application.
 - 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on web, app development and JavaScript progreamming.
+- 💞️ I’m looking to collaborate on web, app development and JavaScript programming.
 - 📫 How to reach me via Telegram
 
 <!---
